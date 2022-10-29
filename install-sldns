@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script By SL
+# Script Mod By LIUFEY
 # 2022 SLOWDNS
 # ===============================================
 nameserver=$(cat /root/nsdomain)
