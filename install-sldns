@@ -2,7 +2,6 @@
 # Script By SL
 # 2022 SLOWDNS
 # ===============================================
-
 nameserver=$(cat /root/nsdomain)
 apt update -y
 apt install -y python3 python3-dnslib net-tools
